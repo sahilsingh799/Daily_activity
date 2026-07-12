@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahilsingh799/Daily_activity/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilsingh799/Daily_activity/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilsingh799/Daily_activity/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilsingh799/Daily_activity/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -29,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
