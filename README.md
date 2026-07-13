@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/sahilsingh799/Daily_activity/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/sahilsingh799/Daily_activity/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/sahilsingh799/Daily_activity/tree/master/0559-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
