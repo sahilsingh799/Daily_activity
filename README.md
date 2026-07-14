@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilsingh799/Daily_activity/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilsingh799/Daily_activity/tree/master/0144-binary-tree-preorder-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sahilsingh799/Daily_activity/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilsingh799/Daily_activity/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilsingh799/Daily_activity/tree/master/0144-binary-tree-preorder-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sahilsingh799/Daily_activity/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
@@ -69,9 +71,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilsingh799/Daily_activity/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilsingh799/Daily_activity/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilsingh799/Daily_activity/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilsingh799/Daily_activity/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
