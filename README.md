@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sahilsingh799/Daily_activity/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sahilsingh799/Daily_activity/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilsingh799/Daily_activity/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahilsingh799/Daily_activity/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sahilsingh799/Daily_activity/tree/master/0700-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
