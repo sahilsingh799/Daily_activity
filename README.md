@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sahilsingh799/Daily_activity/tree/master/0283-move-zeroes) |
+| [0973-k-closest-points-to-origin](https://github.com/sahilsingh799/Daily_activity/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sahilsingh799/Daily_activity/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilsingh799/Daily_activity/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/sahilsingh799/Daily_activity/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sahilsingh799/Daily_activity/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sahilsingh799/Daily_activity/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sahilsingh799/Daily_activity/tree/master/0231-power-of-two) |
+| [0973-k-closest-points-to-origin](https://github.com/sahilsingh799/Daily_activity/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,8 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sahilsingh799/Daily_activity/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sahilsingh799/Daily_activity/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sahilsingh799/Daily_activity/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
