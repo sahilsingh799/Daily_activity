@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/sahilsingh799/Daily_activity/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sahilsingh799/Daily_activity/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sahilsingh799/Daily_activity/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sahilsingh799/Daily_activity/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
