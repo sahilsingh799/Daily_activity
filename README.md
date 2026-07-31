@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sahilsingh799/Daily_activity/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/sahilsingh799/Daily_activity/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/sahilsingh799/Daily_activity/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sahilsingh799/Daily_activity/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/sahilsingh799/Daily_activity/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sahilsingh799/Daily_activity/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sahilsingh799/Daily_activity/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sahilsingh799/Daily_activity/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sahilsingh799/Daily_activity/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
