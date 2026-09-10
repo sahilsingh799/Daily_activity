@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahilsingh799/Daily_activity/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0137-single-number-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sahilsingh799/Daily_activity/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilsingh799/Daily_activity/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0229-majority-element-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/sahilsingh799/Daily_activity/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sahilsingh799/Daily_activity/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sahilsingh799/Daily_activity/tree/master/0231-power-of-two) |
 ## Recursion
